@@ -1,0 +1,5 @@
+,senti,Entity,emotion,Sample size 1,sample size 2,shapiro_t_dist1,shapiro_p_dist1,shapiro_t_dist2,shapiro_p_dist2,KW-p,KW-H,KW-dof,ES
+0,neg,biden,None,3687,1933,0.723,0.0,0.836,0.0,0.0,437.627,1,0.078
+1,pos,biden,None,3687,1933,0.864,0.0,0.72,0.0,0.0,508.343,1,0.09
+2,neg,trump,None,10645,2656,0.811,0.0,0.792,0.0,0.0,482.047,1,0.036
+3,pos,trump,None,10645,2656,0.618,0.0,0.703,0.0,0.0,164.748,1,0.012
