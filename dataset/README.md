@@ -8,7 +8,7 @@ The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_res
 
 Due to copyright issues our publicly available dataset only contains tweet_ids (and not the actual tweet text). 
 
-You can download the tweets using the Twitter developer API, or alternatively request access to the dataset with tweets by emailing the authors.
+You can download the tweets using the Twitter developer API (using the tweet ids), or alternatively request access to the dataset with tweets by emailing the authors.
 
 #### About the Dataset:
 
