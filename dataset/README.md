@@ -13,4 +13,4 @@ We present _NewsSlant_, a of political news headlines, news tweets, and reader r
 
 In addition to online news, we collected tweets published by the official Twitter handle of the same news publishers for the same period as the news headlines that mention one of the two candidates. Additionally, we retrieved all reader reactions (response tweets) to the collected news tweets.
 
-NewsSlant contains &asymp36k news headlines and $&asymp$25k news tweets and $&asymp$4M reader reactions (response tweets) to the news tweets on Twitter.
+NewsSlant contains &asymp;36k news headlines and $&asymp;$25k news tweets and $&asymp$4M reader reactions (response tweets) to the news tweets on Twitter.
