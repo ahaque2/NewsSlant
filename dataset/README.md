@@ -6,6 +6,10 @@ The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_res
 - *news\_tweets.csv* contains news on twitter along with sentiment scores towards each presidential candidate.
 - *user\_resp.csv* contains user response to news on Twitter along with emotion scores for each.
 
+Due to copyright issues our publicly available dataset only contains tweet_ids (and not the actual tweet text). 
+
+You can download the tweets using the Twitter developer API, or alternatively request access to the dataset with tweets by emailing the authors.
+
 #### About the Dataset:
 
 We present _NewsSlant_, a of political news headlines, news tweets, and reader reactions to such news on Social Media (Twitter). NewsSlant contains news headlines from six major US news publishers, covering news stories relevant to the 2020 US presidential elections. The news is collected from two left-leaning (CNN and The Washington Post), two right-leaning (Fox News and Breitbart News), and two non-partisan (balanced) news publishers (USA Today and Business Insider). The collected news articles were published between March 25 2020 (a month before Joe Biden announced his candidacy) and January 20 2021 (Inauguration Day). Each news headline in NewsSlant contains a mention of one of the two major parties' presidential candidate.
