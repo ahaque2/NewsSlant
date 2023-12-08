@@ -1,4 +1,5 @@
-### For dataset, go to the link [here](https://drive.google.com/file/d/1o7FjSSQa2lmTS1BqQDIfc_p_z5_GyocQ/view?usp=sharing)
+#### Download the dataset and unzip under the '_dataset/_' folder.
+#### You can download the dataset from [IEEE-DataPort](https://ieee-dataport.org/documents/newsslant). 
 
 The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_resp.csv*, and *user\_details.csv*
 - *news.csv* contains news headlines, along with sentiment scores towards each presidential candidate.
@@ -6,4 +7,10 @@ The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_res
 - *user\_resp.csv* contains user response to news on Twitter along with emotion scores for each.
 - *user\_details.csv* contains sharing counts for each user (we only consider users who have shared at least 10 tweets)
 
-Additionally, the dataset also contains the MFTC dataset on which we train the Moral Foundation model.
+#### About the Dataset:
+
+We present _NewsSlant_, a of political news headlines, news tweets, and reader reactions to such news on Social Media (Twitter). NewsSlant contains news headlines from six major US news publishers, covering news stories relevant to the 2020 US presidential elections. The news is collected from two left-leaning (CNN and The Washington Post), two right-leaning (Fox News and Breitbart News), and two non-partisan (balanced) news publishers (USA Today and Business Insider). The collected news articles were published between March 25 2020 (a month before Joe Biden announced his candidacy) and January 20 2021 (Inauguration Day). Each news headline in NewsSlant contains a mention of one of the two major parties' presidential candidate.
+
+In addition to online news, we collected tweets published by the official Twitter handle of the same news publishers for the same period as the news headlines that mention one of the two candidates. Additionally, we retrieved all reader reactions (response tweets) to the collected news tweets.
+
+NewsSlant contains $&asymp$36k news headlines and $&asymp$25k news tweets and $&asymp$4M reader reactions (response tweets) to the news tweets on Twitter.
