@@ -5,7 +5,6 @@ The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_res
 - *news.csv* contains news headlines, along with sentiment scores towards each presidential candidate.
 - *news\_tweets.csv* contains news on twitter along with sentiment scores towards each presidential candidate.
 - *user\_resp.csv* contains user response to news on Twitter along with emotion scores for each.
-- *user\_details.csv* contains sharing counts for each user (we only consider users who have shared at least 10 tweets)
 
 #### About the Dataset:
 
