@@ -1,4 +1,4 @@
-#### Download the dataset and unzip under the '_dataset/_' folder.
+#### Download the dataset and unzip under this ('_dataset/_') folder.
 #### You can download the dataset from [IEEE-DataPort](https://ieee-dataport.org/documents/newsslant). 
 
 The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_resp.csv*, and *user\_details.csv*
@@ -13,4 +13,4 @@ We present _NewsSlant_, a of political news headlines, news tweets, and reader r
 
 In addition to online news, we collected tweets published by the official Twitter handle of the same news publishers for the same period as the news headlines that mention one of the two candidates. Additionally, we retrieved all reader reactions (response tweets) to the collected news tweets.
 
-NewsSlant contains $&asymp$36k news headlines and $&asymp$25k news tweets and $&asymp$4M reader reactions (response tweets) to the news tweets on Twitter.
+NewsSlant contains &asymp36k news headlines and $&asymp$25k news tweets and $&asymp$4M reader reactions (response tweets) to the news tweets on Twitter.
