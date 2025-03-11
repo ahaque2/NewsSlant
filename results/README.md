@@ -1,1 +1,5 @@
 ### Results can be found [here](https://drive.google.com/drive/folders/1KJ5Wz2Hl3V9ZKAI0DOurD66IKgaQQ-EQ?usp=sharing)
+
+Election-related news coverage exhibits political slants in both traditional online news and social media content, with significant differences across publishers with varying (presumed) political leanings. Moreover, social media features more sentiment-driven content than traditional online news, and political slant is more pronounced in news shared on these platforms.
+
+A moral analysis of user responses to news on social media reveals a concerning trend: readers’ moral reasoning varies significantly across different news sources, suggesting partisan influence. Moreover, these differences show a variation across social and political issues. These findings raise concerns about the media’s role in reinforcing ideological divides, the strategic use of social media to advance political agendas, and the existence of a moral divide among audiences of different news sources on social media
