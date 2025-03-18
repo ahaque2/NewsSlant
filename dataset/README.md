@@ -7,6 +7,7 @@ The NewsSlant_dataset.zip file contains *news.csv, news\_tweets.csv*, *user\_res
 - *user\_resp.csv* contains user response to news on Twitter along with emotion scores for each.
 
 Due to copyright issues our publicly available dataset only contains tweet_ids (and not the actual tweet text). 
+Reach out to me (amanul.003@gmail.com) to request access to the full dataset.
 
 You can download the tweets using the Twitter developer API (using the tweet ids), or alternatively request access to the dataset with tweets by emailing the authors.
 
