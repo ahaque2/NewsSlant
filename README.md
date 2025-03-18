@@ -24,3 +24,7 @@ The dataset files already contain the sentiment towards the two Presidential can
 - 2c_MFT_user_resp_analysis.ipynb contains code to analyse the moral foundation scores in user responses.
 - 3a_statistical_tests_MFT.ipynb contains code to conduct statistical tests for moral foundation scores (comparing moral foundations across user responses to Left and Right).
 - 3*_user_response_emotion_analysis.ipynb contains additional analysis based on the emotions in user response.
+
+If you use any of the code or data from this repo, kindly cite our paper. 
+
+- **A. Haque and M. P. Singh**, *"NewsSlant: Analyzing Political News and Its Influence Through a Moral Lens,"* in IEEE Transactions on Computational Social Systems, vol. 11, no. 3, pp. 3329-3337, June 2024, [![DOI:10.1109/TCSS.2023.3341910](https://doi.org/10.1007/978-3-031-21438-7_60)]
